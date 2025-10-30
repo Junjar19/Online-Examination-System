@@ -1,7 +1,7 @@
 # Online-Examination-System
-# Reg No:
-# Name:
-# Date:
+# Reg No: 212224230110
+# Name: Junjar U
+# Date: 30/10/2025
 
 
 # AIM:
@@ -37,8 +37,7 @@ Specifying the context and requirements of a system
 
 → Modeling the basic flow of events in a sina use case.
 
-
-
+![alt text](image.png)
 
 
 
@@ -57,16 +56,14 @@ Visually express any specific needs of a system and disseminate that information
 
 Create detailed charts that…
 
-
-
+![alt text](image-1.png)
 # COMMUNICTION DIAGRAM:
 
 A communication diagram offers the same information as a sequence diagram, but while a sequence diagram emphasizes the time and order of events, a communication diagram emphasizes the messages exchanged between objects in an application. Sequence diagrams can fall short of offering the "big picture."
 
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
-
-
+![alt text](image-5.png)
 
 # PACKAGE DIAGRAM:
 
@@ -79,8 +76,7 @@ A well-designed package diagram provides numerous benefits to those looking to c
 
 
 
-
-
+![alt text](image-4.png)
 
 
 # ACTIVITY DIAGRAM:
@@ -96,8 +92,7 @@ Demonstrate the logic of an algorithm.
 Describe the steps performed in a UML use case.
 
 
-
-
+![alt text](image-2.png)
 
 # SEQUENCE DIAGRAM
 
@@ -118,8 +113,7 @@ Plan and understand the detailed functionality of an existing or future scenario
 
 
 
-
-
+![alt text](image-3.png)
 
 # RESULT
 
